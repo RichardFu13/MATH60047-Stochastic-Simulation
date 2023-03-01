@@ -1,5 +1,5 @@
 # stochastic-simulation
-Assignments for stochastic simulation elective (independent random sampling and Monte Carlo methods)\
-Coursework 1 mark: 100%\
-Coursework 2 mark: 100%\
-Coursework 3 mark: 100%
+Assignments for MATH60047-Stochastic-Simulation elective (independent random sampling and Monte Carlo methods)\
+Coursework 1: Sampling from different distributions using Rejection Sampling (marked at 100%)\
+Coursework 2 mark: Sampling using Importance Sampling, Monte Carlo, and Metropolis-Hastings (marked at 100%)\
+Coursework 3 mark: Simulating Markov Processes from Markov Chains, Gaussian time-series, developing and simulating a stochastic volatility model (marked at 100%)
